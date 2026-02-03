@@ -1,0 +1,1 @@
+printf("\t  index %d:",array[i]);

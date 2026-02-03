@@ -1,0 +1,1 @@
+void swape(int x,int y);
